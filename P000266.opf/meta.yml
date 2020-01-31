@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །རི་ཆོས་ཀྱི་གདམས་པ་རྣམ་དབྱེ་བརྒྱ་པ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
+  sku: KS-SP-03
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+web_metadata:
+  title:
+    en: A Hundred Pieces of Advice for Retreat
+    bo: རི་ཆོས་ཀྱི་གདམས་པ་རྣམ་དབྱེ་བརྒྱ་པ་བཞུགས་སོ།།
+  collection:
+    en: Se Phakchok Series–  Book 3
+    bo: སྲས་འཕགས་མཆོག།–  དེབ། ༣
+  author:
+    en: Authors:Phakchok Dorje
+    bo: འཕགས་མཆོག་རྡོ་རྗེ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-SP-03
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-SP-03.epub
+  description:
+    en: ''
+    bo: ''
