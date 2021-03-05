@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000266
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རི་ཆོས་ཀྱི་གདམས་པ་རྣམ་དབྱེ་བརྒྱ་པ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
-  sku: KS-SP-03
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: KS-SP-03
 web_metadata:
   title:
     en: A Hundred Pieces of Advice for Retreat
